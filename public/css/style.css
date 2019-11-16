@@ -1,0 +1,26 @@
+.font-normal label{
+  font-weight: normal;
+}
+.ractangle-img {
+	width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+.greenColor p{
+	color: #025f02;
+	font-weight: bold;
+}
+.redColor p{
+	color: #ff240d;
+	font-weight: bold;
+}
+.whiteColor{
+	color: white;
+}
+.right h3{
+	float: right;
+}
+.star-rating{
+	font-size: x-large;
+	color: #ffff00f7;
+}
